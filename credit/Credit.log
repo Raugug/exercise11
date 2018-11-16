@@ -1,0 +1,162 @@
+2018-11-15 14:21:35 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:21:59 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:22:28 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:22:46 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:23:29 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:23:50 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:24:23 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:24:55 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:25:46 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:26:03 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:26:29 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:26:55 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:27:07 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:27:21 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:28:39 [32minfo[39m: Requested connection:
+2018-11-15 14:28:39 [32minfo[39m: Found:
+2018-11-15 14:28:39 [32minfo[39m: Requested connection:
+2018-11-15 14:28:39 [32minfo[39m: Found:
+2018-11-15 14:28:39 [33mwarn[39m: Replica is ON
+2018-11-15 14:28:39 [32minfo[39m: Requested connection:
+2018-11-15 14:28:39 [32minfo[39m: Found:
+2018-11-15 14:28:39 [32minfo[39m: Requested connection:
+2018-11-15 14:28:39 [32minfo[39m: Found:
+2018-11-15 14:28:39 [32minfo[39m: Credit updated successfully
+2018-11-15 14:28:39 [32minfo[39m: Credit replicated successfully
+2018-11-15 14:28:39 [32minfo[39m: Message charged. Credit: 19
+2018-11-15 14:28:40 [32minfo[39m: Requested connection:
+2018-11-15 14:28:40 [32minfo[39m: Found:
+2018-11-15 14:28:40 [32minfo[39m: Requested connection:
+2018-11-15 14:28:40 [32minfo[39m: Found:
+2018-11-15 14:28:40 [33mwarn[39m: Replica is ON
+2018-11-15 14:28:40 [32minfo[39m: Requested connection:
+2018-11-15 14:28:40 [32minfo[39m: Found:
+2018-11-15 14:28:40 [32minfo[39m: Requested connection:
+2018-11-15 14:28:40 [32minfo[39m: Found:
+2018-11-15 14:28:40 [32minfo[39m: Credit updated successfully
+2018-11-15 14:28:40 [32minfo[39m: Credit replicated successfully
+2018-11-15 14:28:40 [33mwarn[39m: Charge back. Credit: 20
+2018-11-15 14:30:37 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:31:53 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:32:45 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:33:07 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:33:15 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:33:49 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:34:16 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:34:37 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:35:16 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:35:44 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:36:43 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:37:06 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:37:23 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:37:54 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:38:16 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:38:22 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:49:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:49:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:49:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:49:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:49:54 [33mwarn[39m: Replica is ON
+2018-11-15 14:49:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:49:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:49:54 [32minfo[39m: Requested connection: replica
+2018-11-15 14:49:54 [32minfo[39m: Found: REPLICA
+2018-11-15 14:49:54 [32minfo[39m: Credit updated successfully { location: 'Default',
+  _id: 5bebf5e66fbf2072c4a98f17,
+  __v: 0,
+  amount: 19,
+  status: 'ok' }
+2018-11-15 14:49:54 [32minfo[39m: Credit replicated successfully { location: 'Default',
+  _id: 5bebf5e76fbf202d44a98f18,
+  __v: 0,
+  amount: 19,
+  status: 'ok' }
+2018-11-15 14:49:54 [32minfo[39m: Message charged. Credit: 19
+2018-11-15 14:51:25 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:51:35 [32minfo[39m: App credit started on PORT 9020
+2018-11-15 14:51:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:54 [33mwarn[39m: Replica is ON
+2018-11-15 14:51:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:54 [32minfo[39m: Requested connection: replica
+2018-11-15 14:51:54 [32minfo[39m: Found: REPLICA
+2018-11-15 14:51:54 [32minfo[39m: Credit updated successfully 18
+2018-11-15 14:51:54 [32minfo[39m: Credit replicated successfully 18
+2018-11-15 14:51:54 [32minfo[39m: Message charged. Credit: 18
+2018-11-15 14:51:55 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:55 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:55 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:55 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:55 [33mwarn[39m: Replica is ON
+2018-11-15 14:51:55 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:55 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:55 [32minfo[39m: Requested connection: replica
+2018-11-15 14:51:55 [32minfo[39m: Found: REPLICA
+2018-11-15 14:51:55 [32minfo[39m: Credit updated successfully 19
+2018-11-15 14:51:55 [32minfo[39m: Credit replicated successfully 19
+2018-11-15 14:51:55 [33mwarn[39m: Charge back. Credit: 19
+2018-11-15 14:53:29 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:29 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:29 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:29 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:29 [33mwarn[39m: Replica is ON
+2018-11-15 14:53:29 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:29 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:29 [32minfo[39m: Requested connection: replica
+2018-11-15 14:53:29 [32minfo[39m: Found: REPLICA
+2018-11-15 14:53:29 [32minfo[39m: Credit updated successfully 18
+2018-11-15 14:53:29 [32minfo[39m: Credit replicated successfully 18
+2018-11-15 14:53:29 [32minfo[39m: Message charged. Credit: 18
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:30 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:30 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:30 [33mwarn[39m: Replica is ON
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:30 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: replica
+2018-11-15 14:53:30 [32minfo[39m: Found: REPLICA
+2018-11-15 14:53:30 [32minfo[39m: Credit updated successfully 19
+2018-11-15 14:53:30 [32minfo[39m: Credit replicated successfully 19
+2018-11-15 14:53:30 [33mwarn[39m: Charge back. Credit: 19
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:55:53 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:55:53 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:55:53 [33mwarn[39m: Replica is ON
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:55:53 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: replica
+2018-11-15 14:55:53 [32minfo[39m: Found: REPLICA
+2018-11-15 14:55:53 [32minfo[39m: Credit updated successfully 18
+2018-11-15 14:55:53 [32minfo[39m: Credit replicated successfully 18
+2018-11-15 14:55:53 [32minfo[39m: Message charged. Credit: 18
+2018-11-15 14:57:16 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:16 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:16 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:16 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:16 [33mwarn[39m: Replica is ON
+2018-11-15 14:57:16 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:16 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:16 [32minfo[39m: Requested connection: replica
+2018-11-15 14:57:16 [32minfo[39m: Found: REPLICA
+2018-11-15 14:57:16 [32minfo[39m: Credit updated successfully 17
+2018-11-15 14:57:16 [32minfo[39m: Credit replicated successfully 17
+2018-11-15 14:57:16 [32minfo[39m: Message charged. Credit: 17
+2018-11-15 14:57:17 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:17 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:17 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:17 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:17 [33mwarn[39m: Replica is ON
+2018-11-15 14:57:17 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:17 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:17 [32minfo[39m: Requested connection: replica
+2018-11-15 14:57:17 [32minfo[39m: Found: REPLICA
+2018-11-15 14:57:17 [32minfo[39m: Credit updated successfully 18
+2018-11-15 14:57:17 [32minfo[39m: Credit replicated successfully 18
+2018-11-15 14:57:17 [33mwarn[39m: Charge back. Credit: 18
+2018-11-15 15:21:26 [33mwarn[39m: Node down: PRIMARY
+2018-11-15 15:21:26 [33mwarn[39m: Node down: REPLICA

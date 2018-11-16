@@ -1,0 +1,210 @@
+2018-11-15 12:43:07 [33mwarn[39m: warning
+2018-11-15 12:43:07 [32minfo[39m: info
+2018-11-15 12:43:07 [32minfo[39m: App message started on PORT 9010
+2018-11-15 12:43:53 [33mwarn[39m: warning
+2018-11-15 12:43:53 [32minfo[39m: info
+2018-11-15 12:43:53 [32minfo[39m: App message started on PORT 9010
+2018-11-15 12:46:18 [32minfo[39m: App message started on PORT 9010
+2018-11-15 13:00:29 [32minfo[39m: App message started on PORT 9010
+2018-11-15 13:05:27 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:05:38 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:06:47 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:07:02 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:07:50 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:10:33 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:10:55 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:12:00 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:12:26 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:12:36 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:12:49 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:13:14 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:13:34 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:14:03 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:14:29 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:14:48 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:15:55 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:16:19 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:17:14 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:17:27 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:17:38 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:18:05 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:21:05 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:28:39 [32minfo[39m: Requested connection:
+2018-11-15 14:28:39 [32minfo[39m: Found:
+2018-11-15 14:28:39 [32minfo[39m: Requested connection:
+2018-11-15 14:28:39 [32minfo[39m: Found:
+2018-11-15 14:28:39 [31merror[39m: Successfully saved
+2018-11-15 14:28:39 [32minfo[39m: Message saved successfully
+2018-11-15 14:28:39 [32minfo[39m: Message replicated successfully
+2018-11-15 14:28:40 [32minfo[39m: Requested connection:
+2018-11-15 14:28:40 [32minfo[39m: Found:
+2018-11-15 14:28:40 [32minfo[39m: Requested connection:
+2018-11-15 14:28:40 [32minfo[39m: Found:
+2018-11-15 14:28:40 [31merror[39m: Error: [Breaker: defaultBrake] Error while sending message
+2018-11-15 14:28:40 [31merror[39m: Error 500: Internal server error: SERVICE ERROR 1
+2018-11-15 14:28:40 [33mwarn[39m: Message delivery failed. Rollback of charge
+2018-11-15 14:28:40 [32minfo[39m: Message updated successfully:
+2018-11-15 14:38:54 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:39:32 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:42:36 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:43:07 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:43:24 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:43:30 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:43:55 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:44:22 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:44:38 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:45:00 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:45:08 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:45:56 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:46:38 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:48:17 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:48:44 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:49:17 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:49:36 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:49:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:49:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:49:54 [32minfo[39m: Requested connection: replica
+2018-11-15 14:49:54 [32minfo[39m: Found: REPLICA
+2018-11-15 14:49:54 [31merror[39m: Successfully saved
+2018-11-15 14:49:54 [32minfo[39m: Message saved successfully { location: { name: 'Default', cost: 1 },
+  _id: 5bed7982d60bde4355967270,
+  destination: 'dest',
+  body: 'pay90',
+  status: 'PENDING',
+  messageId: '888623fa-740f-44f3-8432-a030818301be',
+  __v: 0 }
+2018-11-15 14:49:54 [32minfo[39m: Message replicated successfully { location: { name: 'Default', cost: 1 },
+  _id: 5bed7982d60bde4355967271,
+  destination: 'dest',
+  body: 'pay90',
+  status: 'PENDING',
+  messageId: '888623fa-740f-44f3-8432-a030818301be',
+  __v: 0 }
+2018-11-15 14:49:55 [32minfo[39m: [object Object]
+2018-11-15 14:49:55 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:49:55 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:49:55 [32minfo[39m: Requested connection: replica
+2018-11-15 14:49:55 [32minfo[39m: Found: REPLICA
+2018-11-15 14:49:55 [32minfo[39m: result: [object Object]
+2018-11-15 14:49:55 [32minfo[39m: Successfully saved with status OK
+2018-11-15 14:49:55 [32minfo[39m: Message updated successfully:
+2018-11-15 14:51:54 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:54 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:54 [32minfo[39m: Requested connection: replica
+2018-11-15 14:51:54 [32minfo[39m: Found: REPLICA
+2018-11-15 14:51:54 [31merror[39m: Successfully saved
+2018-11-15 14:51:54 [32minfo[39m: Message saved successfully { location: { name: 'Default', cost: 1 },
+  _id: 5bed79fad60bde4355967273,
+  destination: 'dest',
+  body: 'pay90',
+  status: 'PENDING',
+  messageId: 'a85f25c4-c19c-4119-860b-e0c8269197ab',
+  __v: 0 }
+2018-11-15 14:51:54 [32minfo[39m: Message replicated successfully { location: { name: 'Default', cost: 1 },
+  _id: 5bed79fad60bde4355967274,
+  destination: 'dest',
+  body: 'pay90',
+  status: 'PENDING',
+  messageId: 'a85f25c4-c19c-4119-860b-e0c8269197ab',
+  __v: 0 }
+2018-11-15 14:51:55 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:51:55 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:51:55 [32minfo[39m: Requested connection: replica
+2018-11-15 14:51:55 [32minfo[39m: Found: REPLICA
+2018-11-15 14:51:55 [31merror[39m: Error 500: Internal server error: TIMEOUT
+2018-11-15 14:51:55 [31merror[39m: Error: [Breaker: defaultBrake] Request Timed out
+2018-11-15 14:51:55 [32minfo[39m: Message updated successfully:
+2018-11-15 14:51:55 [33mwarn[39m: Message delivery failed. Rollback of charge
+2018-11-15 14:52:01 [32minfo[39m: [object Object]
+2018-11-15 14:52:01 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:52:01 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:52:01 [32minfo[39m: Requested connection: replica
+2018-11-15 14:52:01 [32minfo[39m: Found: REPLICA
+2018-11-15 14:52:01 [32minfo[39m: Successfully saved with status OK
+2018-11-15 14:52:01 [32minfo[39m: Message updated successfully:
+2018-11-15 14:53:02 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:53:29 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:29 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:29 [32minfo[39m: Requested connection: replica
+2018-11-15 14:53:29 [32minfo[39m: Found: REPLICA
+2018-11-15 14:53:29 [31merror[39m: Successfully saved
+2018-11-15 14:53:29 [32minfo[39m: Message saved successfully { location: { name: 'Default', cost: 1 },
+  _id: 5bed7a593f5bae43eff2574c,
+  destination: 'dest',
+  body: 'pay90',
+  status: 'PENDING',
+  messageId: '6347c95b-46db-49a3-b967-a5e991876e6c',
+  __v: 0 }
+2018-11-15 14:53:29 [32minfo[39m: Message replicated successfully { location: { name: 'Default', cost: 1 },
+  _id: 5bed7a593f5bae43eff2574d,
+  destination: 'dest',
+  body: 'pay90',
+  status: 'PENDING',
+  messageId: '6347c95b-46db-49a3-b967-a5e991876e6c',
+  __v: 0 }
+2018-11-15 14:53:30 [31merror[39m: Error: [Breaker: defaultBrake] Request Timed out
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:30 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: replica
+2018-11-15 14:53:30 [32minfo[39m: Found: REPLICA
+2018-11-15 14:53:30 [31merror[39m: Error 500: Internal server error: TIMEOUT
+2018-11-15 14:53:30 [32minfo[39m: Message updated successfully:
+2018-11-15 14:53:30 [33mwarn[39m: Message delivery failed. Rollback of charge
+2018-11-15 14:53:30 [32minfo[39m: [object Object]
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:53:30 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:53:30 [32minfo[39m: Requested connection: replica
+2018-11-15 14:53:30 [32minfo[39m: Found: REPLICA
+2018-11-15 14:53:30 [32minfo[39m: Successfully saved with status OK
+2018-11-15 14:53:30 [32minfo[39m: Message updated successfully:
+2018-11-15 14:55:45 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:55:53 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: replica
+2018-11-15 14:55:53 [32minfo[39m: Found: REPLICA
+2018-11-15 14:55:53 [31merror[39m: Successfully saved
+2018-11-15 14:55:53 [32minfo[39m: Message saved successfully
+2018-11-15 14:55:53 [32minfo[39m: Message replicated successfully { location: { name: 'Default', cost: 1 },
+  _id: 5bed7ae9cf86a9446582f647,
+  destination: 'dest',
+  body: 'pay90',
+  status: 'PENDING',
+  messageId: '04edf2c9-2d5c-4024-b20d-45c5f7c63578',
+  __v: 0 }
+2018-11-15 14:55:53 [32minfo[39m: [object Object]
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:55:53 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:55:53 [32minfo[39m: Requested connection: replica
+2018-11-15 14:55:53 [32minfo[39m: Found: REPLICA
+2018-11-15 14:55:53 [32minfo[39m: result: [object Object]
+2018-11-15 14:55:53 [32minfo[39m: Successfully saved with status OK
+2018-11-15 14:55:53 [32minfo[39m: Message updated successfully
+2018-11-15 14:56:50 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:57:06 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:57:16 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:16 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:16 [32minfo[39m: Requested connection: replica
+2018-11-15 14:57:16 [32minfo[39m: Found: REPLICA
+2018-11-15 14:57:16 [31merror[39m: Successfully saved
+2018-11-15 14:57:16 [32minfo[39m: Message saved successfully
+2018-11-15 14:57:16 [32minfo[39m: Message replicated successfully
+2018-11-15 14:57:17 [31merror[39m: Error: [Breaker: defaultBrake] Request Timed out
+2018-11-15 14:57:17 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:17 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:17 [32minfo[39m: Requested connection: replica
+2018-11-15 14:57:17 [32minfo[39m: Found: REPLICA
+2018-11-15 14:57:17 [31merror[39m: Error 500: Internal server error: TIMEOUT
+2018-11-15 14:57:17 [32minfo[39m: Message updated successfully
+2018-11-15 14:57:17 [33mwarn[39m: Message delivery failed. Rollback of charge
+2018-11-15 14:57:30 [32minfo[39m: [object Object]
+2018-11-15 14:57:30 [32minfo[39m: Requested connection: undefined
+2018-11-15 14:57:30 [32minfo[39m: Found: PRIMARY
+2018-11-15 14:57:30 [32minfo[39m: Requested connection: replica
+2018-11-15 14:57:30 [32minfo[39m: Found: REPLICA
+2018-11-15 14:57:30 [32minfo[39m: Successfully saved with status OK
+2018-11-15 14:57:30 [32minfo[39m: Message updated successfully
+2018-11-15 14:58:50 [32minfo[39m: App message started on PORT 9010
+2018-11-15 14:58:54 [32minfo[39m: App message started on PORT 9010
+2018-11-15 15:01:12 [32minfo[39m: App message started on PORT 9010
+2018-11-15 15:21:26 [33mwarn[39m: Node down: REPLICA
+2018-11-15 15:21:26 [33mwarn[39m: Node down: PRIMARY

@@ -1,0 +1,14 @@
+2018-11-15 14:28:39 [31merror[39m: Successfully saved
+2018-11-15 14:28:40 [31merror[39m: Error: [Breaker: defaultBrake] Error while sending message
+2018-11-15 14:28:40 [31merror[39m: Error 500: Internal server error: SERVICE ERROR 1
+2018-11-15 14:49:54 [31merror[39m: Successfully saved
+2018-11-15 14:51:54 [31merror[39m: Successfully saved
+2018-11-15 14:51:55 [31merror[39m: Error 500: Internal server error: TIMEOUT
+2018-11-15 14:51:55 [31merror[39m: Error: [Breaker: defaultBrake] Request Timed out
+2018-11-15 14:53:29 [31merror[39m: Successfully saved
+2018-11-15 14:53:30 [31merror[39m: Error: [Breaker: defaultBrake] Request Timed out
+2018-11-15 14:53:30 [31merror[39m: Error 500: Internal server error: TIMEOUT
+2018-11-15 14:55:53 [31merror[39m: Successfully saved
+2018-11-15 14:57:16 [31merror[39m: Successfully saved
+2018-11-15 14:57:17 [31merror[39m: Error: [Breaker: defaultBrake] Request Timed out
+2018-11-15 14:57:17 [31merror[39m: Error 500: Internal server error: TIMEOUT
