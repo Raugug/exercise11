@@ -5,7 +5,7 @@ global:
 
 # A scrape configuration containing exactly one endpoint to scrape:
 scrape_configs:
-  - job_name: 'prometheus'
+  - job_name: 'mssgService'
     scrape_interval: 5s
     static_configs:
       - targets: ['message:9010'] # the address of an application that exposes metrics for prometheus

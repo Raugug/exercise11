@@ -10,7 +10,11 @@ const getMessageStatus = require("./src/controllers/getMessageStatus");
 const checkHealth = require('./src/controllers/checkHealth');
 const { checkCredit } = require("./src/queue/queue");
 const logger = require('./winston');
-const Prometheus = require('prom-client')
+//const Prometheus = require('prom-client')
+const Prometheus = require('./prom'); 
+require('prom-client').collectDefaultMetrics()
+//const metrics = require("./controllers/metrics");
+
 
 const app = express();
 //const port = process.env.PORT;
@@ -47,19 +51,20 @@ app.post(
   checkCredit
 );
 
- 
-const collectDefaultMetrics = Prometheus.collectDefaultMetrics;
- 
-// Probe every 5th second.
-collectDefaultMetrics({ timeout: 5000 });
-
 app.get("/messages", getMessages);
 app.get("/message/:messageId/status", getMessageStatus);
 app.get('/health', checkHealth);
-app.get('/metrics', (req, res) => {
+/* app.get('/metrics', (req, res) => {
   res.set('Content-Type', Prometheus.register.contentType)
   res.end(Prometheus.register.metrics())
-})
+}) */
+
+app.use(Prometheus.requestCounters);  
+app.use(Prometheus.responseCounters);
+
+Prometheus.injectMetricsRoute(app);
+Prometheus.startCollection();
+
 
 app.use(function(err, req, res, next) {
   if (err instanceof ValidationError) {
