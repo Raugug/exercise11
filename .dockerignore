@@ -10,3 +10,4 @@ env.*
 /devops/*
 node_modules
 /mongodb/data
+.grafana.ini

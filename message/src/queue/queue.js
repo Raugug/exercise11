@@ -9,8 +9,8 @@ const circuitBraker = require('../circuitBraker/braker');
 const logger = require('../../winston');
 let blockedQueue = false
 
-//const port = process.env.PORT;
-const port = 9010;
+const port = process.env.PORT;
+//const port = 9010;
 
 const messagePrice = 1;
 

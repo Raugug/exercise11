@@ -3,6 +3,7 @@ const saveMessage = require("../clients/saveMessage");
 const circuitBraker = require('../circuitBraker/braker');
 const util = require("util");
 const logger = require('../../winston')
+require('../../prom').numRequests;
 
 //Check state on snapshot stats object
 /* circuitBraker.on("snapshot", snapshot => {

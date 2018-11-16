@@ -3,3 +3,4 @@ data
 .env
 message/node_modules
 credit/node_modules
+.grafana.ini

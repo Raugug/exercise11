@@ -4,12 +4,6 @@ services:
     build: message/
     ports:
       - "9010:9010"
-    links:
-      - messageapp
-      - mongodb_message
-      - replica_message
-      - redis
-      - credit
     depends_on:
       - messageapp
       - mongodb_message
@@ -21,10 +15,6 @@ services:
     build: credit/
     ports:
       - "9020:9020"
-    links:
-      - mongodb_credit
-      - replica_credit
-      - redis
     depends_on:
       - mongodb_credit
       - replica_credit
@@ -91,5 +81,3 @@ services:
     image: grafana/grafana:5.1.0
     ports:
      - "3030:3000"
-    volumes:
-      - ./grafana.ini:/etc/grafana/grafana.ini
